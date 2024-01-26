@@ -1,3 +1,9 @@
+# **This fork adds scoped bookmarks and bug fix for when lines change so that bookmarks stay on their correct lines**
+
+- Implements https://github.com/tomasky/bookmarks.nvim/pull/15/files#diff-2f8e3693e6047f4e45e8fc632efc350d5b4456e695f4add9919b7cf993da8483 from @
+  ten3roberts
+- Implements https://github.com/tomasky/bookmarks.nvim/commit/12bf1b32990c49192ff6e0622ede2177ac836f11 for out of range fixes
+
 # bookmarks.nvim
 
 A Bookmarks Plugin With Global File Store For Neovim Written In Lua.
