@@ -2,6 +2,10 @@
 
 A Bookmarks Plugin With Global File Store For Neovim Written In Lua.
 
+> [!WARNING] this is a fork for fixes
+This adds the following fixes from open PRs that won't be merged:
+
+
 ## Features
 
 - Display different icons according to annotation keywords
